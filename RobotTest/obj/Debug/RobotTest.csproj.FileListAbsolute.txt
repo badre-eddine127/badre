@@ -1,0 +1,16 @@
+C:\Users\br\source\repos\RobotTest\RobotTest\bin\Debug\RobotTest.exe.config
+C:\Users\br\source\repos\RobotTest\RobotTest\bin\Debug\RobotTest.exe
+C:\Users\br\source\repos\RobotTest\RobotTest\bin\Debug\RobotTest.pdb
+C:\Users\br\source\repos\RobotTest\RobotTest\bin\Debug\xunit.abstractions.dll
+C:\Users\br\source\repos\RobotTest\RobotTest\bin\Debug\xunit.assert.dll
+C:\Users\br\source\repos\RobotTest\RobotTest\bin\Debug\xunit.core.dll
+C:\Users\br\source\repos\RobotTest\RobotTest\bin\Debug\xunit.execution.desktop.dll
+C:\Users\br\source\repos\RobotTest\RobotTest\bin\Debug\xunit.abstractions.xml
+C:\Users\br\source\repos\RobotTest\RobotTest\bin\Debug\xunit.assert.xml
+C:\Users\br\source\repos\RobotTest\RobotTest\bin\Debug\xunit.core.xml
+C:\Users\br\source\repos\RobotTest\RobotTest\bin\Debug\xunit.execution.desktop.xml
+C:\Users\br\source\repos\RobotTest\RobotTest\obj\Debug\RobotTest.csprojAssemblyReference.cache
+C:\Users\br\source\repos\RobotTest\RobotTest\obj\Debug\RobotTest.csproj.CoreCompileInputs.cache
+C:\Users\br\source\repos\RobotTest\RobotTest\obj\Debug\RobotTest.csproj.CopyComplete
+C:\Users\br\source\repos\RobotTest\RobotTest\obj\Debug\RobotTest.exe
+C:\Users\br\source\repos\RobotTest\RobotTest\obj\Debug\RobotTest.pdb
